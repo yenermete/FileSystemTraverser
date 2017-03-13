@@ -4,40 +4,46 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
-import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.text.BreakIterator;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-import javax.inject.Singleton;
+import javax.inject.Inject;
+import javax.inject.Named;
 
+import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.StringUtils;
 
-import com.app.constants.FileConstants;
 import com.app.model.FileInfo;
 import com.app.service.FileService;
 
-@Singleton
 public class FileServiceImpl implements FileService {
 
-	// TODO inject
 	private long longFileLowerLimit;
 	private int longFileBufferSize;
 	private int wordThreshold;
 	private int fileWordThreshold;
 	private String encoding;
 	private boolean ignoreCase;
+	private BreakIterator wordIterator;
 
-	public FileServiceImpl(String encoding, int longFileLowerLimit, int wordThreshold, int fileWordThreshold,
-			boolean ignoreCase) {
+	@Inject
+	public FileServiceImpl(@Named("encoding") String encoding, @Named("longFileLowerLimit") int longFileLowerLimit,
+			@Named("wordThreshold") int wordThreshold, @Named("fileWordThreshold") int fileWordThreshold,
+			@Named("ignoreCase") boolean ignoreCase, @Named("language") String language) {
 		this.encoding = encoding;
 		this.longFileLowerLimit = longFileLowerLimit;
 		this.longFileBufferSize = longFileLowerLimit / 10;
 		this.wordThreshold = wordThreshold;
 		this.fileWordThreshold = fileWordThreshold;
 		this.ignoreCase = ignoreCase;
+		this.wordIterator = BreakIterator.getWordInstance(new Locale(language));
 	}
 
 	public Map<String, Integer> getWordCountMap(Path path, FileInfo fileInfo) throws IOException {
@@ -81,25 +87,29 @@ public class FileServiceImpl implements FileService {
 
 	private void updateMapWithContent(Map<String, Integer> map, FileInfo fileInfo, String fileContent,
 			boolean ignoreCase) {
-		String[] words = fileContent.split(FileConstants.WORD_REGEX);
-		if (words != null && words.length > fileWordThreshold) {
+		List<String> words = new ArrayList<>();
+		wordIterator.setText(fileContent);
+		int start = wordIterator.first();
+		int end = wordIterator.next();
+
+		while (end != BreakIterator.DONE) {
+			String word = fileContent.substring(start, end);
+			if (StringUtils.isNotBlank(word) && Character.isLetterOrDigit(word.charAt(0))) {
+				words.add(ignoreCase ? word.toLowerCase() : word);
+			}
+			start = end;
+			end = wordIterator.next();
+		}
+		if (CollectionUtils.isNotEmpty(words) && words.size() >= fileWordThreshold) {
 			fileInfo.setBigFile(true);
 		} else {
 			fileInfo.setBigFile(false);
 		}
-		String currentWord;
 		for (String word : words) {
-			if (ignoreCase) {
-				currentWord = word.toLowerCase();
+			if (map.get(word) == null) {
+				map.put(word, 1);
 			} else {
-				currentWord = word;
-			}
-			if (StringUtils.isNotBlank(currentWord)) {
-				if (map.get(currentWord) == null) {
-					map.put(currentWord, 1);
-				} else {
-					map.put(currentWord, map.get(currentWord) + 1);
-				}
+				map.put(word, map.get(word) + 1);
 			}
 		}
 	}

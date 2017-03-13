@@ -8,6 +8,7 @@ public class FileAppConfig {
 	private int fileWordThreshold;
 	private int longFileLowerLimit;
 	private String searchedExtension;
+	private String language;
 
 	public boolean isIgnoreCase() {
 		return ignoreCase;
@@ -55,5 +56,13 @@ public class FileAppConfig {
 
 	public void setSearchedExtension(String searchedExtension) {
 		this.searchedExtension = searchedExtension;
+	}
+
+	public String getLanguage() {
+		return language;
+	}
+
+	public void setLanguage(String language) {
+		this.language = language;
 	}
 }

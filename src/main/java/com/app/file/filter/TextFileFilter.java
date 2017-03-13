@@ -7,13 +7,14 @@ import java.nio.file.LinkOption;
 import java.nio.file.Path;
 
 import javax.inject.Inject;
+import javax.inject.Named;
 
 public class TextFileFilter implements DirectoryStream.Filter<Path> {
 
-	@Inject
 	private final String searchedExtension;
 
-	public TextFileFilter(String searchedExtension) {
+	@Inject
+	public TextFileFilter(@Named("extension") String searchedExtension) {
 		this.searchedExtension = searchedExtension;
 	}
 
