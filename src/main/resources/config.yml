@@ -1,0 +1,12 @@
+# If matched words should be considered the same when they are only different by case of letters
+ignoreCase: true
+# Default encoding files are expected to have
+encoding : UTF-8
+# If it's a log file, minimum amount of repetitions for a  word to be printed
+wordThreshold: 50
+# Minimum amount of words a fiel should have to be a long file
+fileWordThreshold: 1000
+# Lower limit, in bytes, for a file not to be taken to memory at once. Below 1024 * 1024 bytes
+longFileLowerLimit: 1048576
+# Text file extension to search
+searchedExtension: .txt

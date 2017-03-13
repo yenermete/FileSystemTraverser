@@ -1,0 +1,170 @@
+Buchdruck
+
+Buchdruck im 16. Jahrhundert
+Buchdruck ist ein mechanischer Prozess, bei dem Schriften und Bilder in großer Anzahl auf ebene Flächen, meist aus Papier, reproduziert werden. Die dadurch erstellten Werke können in großer Anzahl verbreitet werden. Bis zu seiner Erfindung war die Erschaffung und handschriftliche Vervielfältigung von Dokumenten und Büchern (Manuskripten) ein Monopol einer kleinen Zahl von Spezialisten, in Europa insbesondere der gebildeten Mönche in den Skriptorien der Klöster.
+
+In Ostasien gab es bereits im 8. Jahrhundert gedruckte Werke. Der moderne Buchdruck mit den auswechselbaren Lettern einer Satzschrift in einer Druckerpresse (Typendruck), der die flexible, relativ kostengünstige und schnelle Erstellung größerer Auflagen ermöglichte, wurde im 15. Jahrhundert von Johannes Gutenberg erfunden. Er leitete eine Demokratisierung der Schaffung und Verbreitung von Informationen ein – schuf aber auch die Grundlagen für einen massiven Ausbau tendenziell freiheitsfeindlicher staatlicher und kirchlicher Bürokratie. Der Buchdruck ermöglichte erstmals die massenhafte Verbreitung von Wissen, Nachrichten und Meinungen frei von Kontrolle durch Kirche und Obrigkeit, was langfristig große gesellschaftliche Umwälzungen beförderte - so war er eine der Triebkräfte für die Epoche der Renaissance sowie für das Zeitalter der Aufklärung, und spielte eine wichtige Rolle beim Aufstieg des Bürgertums. Die Sichtweise, wonach die Buchdrucktechnik revolutionär gewirkt habe, wird von der jüngeren Forschung in Frage gestellt. Als Kontrollmechanismus für die gewonnene Freiheit wurde bald die staatliche Zensur von Druckerzeugnissen und die staatliche Verfolgung unbequemer Publizisten und Drucker eingeführt, deren Überwindung sich heute in modernen Demokratien als Grundsatz der Pressefreiheit (von Druckerpresse) manifestiert.
+
+Inhaltsverzeichnis  [Verbergen] 
+1	Geschichte des Buchdrucks
+1.1	Früher Buchdruck in Asien
+1.2	Europa und Gutenberg
+1.3	Renaissance des Buchdrucks im 21. Jahrhundert
+2	Technik der klassischen Buchdruckerkunst
+2.1	Form und Ablage von Typen
+2.2	Verwendung der Typen
+2.3	Der Druckvorgang
+2.4	Nach dem Druck
+3	Rolle Gutenbergs
+4	Bedeutung des Buchdruckes
+5	Schwarze Kunst und Schriftsatz
+6	Siehe auch
+7	Literatur
+8	Weblinks
+9	Einzelnachweise
+Geschichte des Buchdrucks[Bearbeiten]
+? Hauptartikel: Geschichte des Buchdrucks
+Die Technik des Buchdrucks entwickelte sich in Asien und Europa zunächst unabhängig voneinander. Die fernöstliche Tradition endete jedoch im 19. Jahrhundert mit der Übernahme westlicher Druckerpressen, wodurch diese Drucktechnik zur einzig verbliebenen Entwicklungslinie wurde.
+
+Früher Buchdruck in Asien[Bearbeiten]
+Am 11. Mai 868 wurde die erste Druckversion des Diamant-Sutra in China mittels Holztafeldruck (auch Holzblockdruck) hergestellt. Jedes Zeichen wurde dabei spiegelverkehrt in einen Holzstock geschnitten, indem man das umgebende Holz entfernte. Es entstanden erhabene Linien, die eingefärbt und auf Papier abgerieben den gewünschten Text abdruckten. Dieses Hochdruckverfahren des klassischen Buchdrucks wurde in China bis Ende des 19. Jahrhunderts verwendet. Obwohl die ersten schriftlichen Zeugnisse über den chinesischen Buchdruck erst aus dem Jahre 1324 stammen, erfand der chinesische Schmied Bi Sheng bereits um 1040 bewegliche Druckstempel aus Keramik.
+
+In aktuellen Darstellungen der UNESCO wird das koreanische Jikji auf den Juli 1377 datiert. Es wäre damit „das älteste Buch der Welt“, das mit Bronze-Lettern gedruckt wurde.[1] Der Buchdruck mit beweglichen Lettern in Fernost wurde jedoch nur sporadisch verwendet, blieb als arbeitsintensiver Handdruck unter den technischen Möglichkeiten der Zeit und verschwand mit Einführung der westlichen Drucktechnik im 19. Jahrhundert schließlich ganz.
+
+Europa und Gutenberg[Bearbeiten]
+
+Der moderne Buchdruck - Skulptur zur Erinnerung an Johannes Gutenberg, den Erfinder des modernen Buchdruckes, während der WM 2006 in Deutschland
+
+Verbreitung des Buchdrucks im 15. Jahrhundert
+
+Die Buchdruck-Revolution bewirkte einen sprunghaften Anstieg der europäischen Buchproduktion.
+Siehe auch: Druckerpresse und Ausbreitung des Buchdrucks
+Die Erfindung des modernen Buchdruckes geht auf den Mainzer Goldschmied Johannes Gutenberg zurück, der in der Mitte des 15. Jahrhunderts ein komplettes maschinenbetriebenes Drucksystem mit beweglichen metallenen Lettern einführte. Seine Druckerpresse revolutionierte den Buchdruck und machte das gedruckte Buch zu einem Massenartikel, der die Grundlagen der heutigen Wissensgesellschaft legte und entscheidend zur Entfaltung der Wissenschaften beitrug. Schlüssel seines Erfolges war die technische Reife des Systems nach langen Phasen erheblicher Rückschläge und nach hohen Investitionen auf Kredit und als Beteiligungen, die Gutenberg den wesentlichen kommerziellen Erfolgsanteil an seinen Bemühungen kosteten. Den frühen Verlegern boten seine Erfindungen erhebliche Profitchancen und machten so gleichzeitig Bücher einer breiteren Allgemeinheit erschwinglich.
+
+Medien- und technikhistorisch wird Gutenberg heute weniger als technischer Erfinder gewürdigt denn als technisch inspirierter Kaufmann, der ein Bedarfspotential mit erheblichen Geldmitteln erschloss. Dies deshalb, weil man seine 42-zeilige Bibel (B42) wie auch die Lutherbibel, die nach ihm der Durchbruch dieser Techniken war, auch ohne seine Erfindung der beweglichen Lettern druckmäßig hätte vervielfältigen können, denn der Text änderte sich ja nicht so schnell, so dass feste, „gravierte“ (embossierte) Platten ebenso gut bzw. besser als die Gebinde einzelner, eigentlich loser Lettern in der mittleren Auflage durchhielten.
+
+Seine Kalkulationen auf der Grundlage zu hoher Erwartungen an die Auflagenfähigkeit/Produktivität seiner Techniken (zunächst kaum Vorteile zur Klosterhandschrift) sollten sich lange nicht erfüllen, was die Finanzierungen mehrfach ins Rutschen brachte. Der Durchbruch zu den großen, preiswerten Auflagen erfolgte nach der Einführung fester Druckplatten („mater-pater“-Verfahren durch Abgüsse vom Satz) in Verbindung mit der Schnelligkeit, in der Texte durch das Setzen vorgefertigter Lettern erstellt werden konnten.
+
+Im 15. und 16. Jahrhundert breitete sich die Buchdrucktechnik Gutenbergs in Europa aus:
+
+1458 erste Druckerei in Straßburg
+1464 in Basel
+1465 in Köln, Rom
+1467 in Eltville
+1468 in Augsburg
+1469 in Venedig
+1470 in Nürnberg, Paris
+1472 in Ulm
+1473 in Krakau, Buda, in Spanien und England
+1476 in Pilsen
+1482 in Wien
+1483 in Kosinj, (Lika, Kroatien)
+1563 in Russland
+1593 in Mexiko
+Während es 1470 noch siebzehn Druckorte gab, erhöhte sich ihre Zahl bis zum Jahr 1490 auf 204 Druckorte. Bis 1500 gab es 252 Druckorte, von denen 62 im Heiligen Römischen Reich Deutscher Nation lagen. In der Frühdruckerzeit wurden durchschnittliche Auflagen von 150 bis 250 Exemplaren erreicht. Etwa 77 % aller Inkunabeln erschienen in lateinischer Sprache.[2]
+
+Zunächst wurden vor allem Ablassbriefe, Kalender, Donaten und Bücher gedruckt. Im Laufe der Zeit entstanden Großbetriebe wie der von Anton Koberger in Nürnberg. Dieser beschäftigte bis zu 100 Arbeiter an 24 Pressen. Im 16. Jahrhundert bildete der Druck der Schriften Martin Luthers fast ein Drittel der gesamten Auflage. Bis zum Ende des 19. Jahrhunderts blieb das Verfahren des Setzens von Hand mit beweglichen Lettern unverändert. Erst mit der Einführung praxisgerechter Setzmaschinen (hierzu zählte ab 1886 speziell die Linotype-Setzmaschine) änderte sich vor allem für Zeitungen und Bücher das bisherige Setzverfahren. Auch die Bleisetzmaschinen produzierten Text für den Druck auf aktuellen Hochdruck-Druckmaschinen. Eine Kombination von bisherigen Einzellettern (z. B. für Überschriften) und Setzmaschinen-Textzeilen war ohne Einschränkung möglich.
+
+Im russischen Kulturraum wurde der Buchdruck durch Iwan Fjodorow (1510–1583) etabliert, der 1563 ein Epistolarium in russischer Sprache druckte.
+
+Das 1727 von Sultan Ahmad III beschlossene Verbot, dass keine islamischen Schriften gedruckt werden dürften, wurde bis 1803 befolgt und hatte somit zur Folge, dass der Druck islamischer - im Gegensatz zu christlichen - Schriften erst ab 1817 Aufschwung erhielt[3]. Dieser wurde vor allem durch die Erfindung der Lithographie durch Aloys Senefelder ermöglicht, da somit z. B. der Koran in Handschrift gedruckt werden konnte. Mehrere Druckereien entstanden in dieser Zeit im Orient.
+
+Das Aufkommen des Buchdruckes führte zu einer Umstrukturierung der Werkstätten. Nun wurden Facharbeiter verschiedener Berufe notwendig. Eine neue Art des intellektuellen Austausches wurde möglich. Der Drucker führte alle ausgeführten Arbeiten zusammen. Sein Aufgabenbereich war die Beschaffung von Geld und die für den Druck benötigten Komponenten. Er stellte Arbeiter ein, verschaffte sich einen Überblick über den Buchmarkt und gab Rundschreiben und Flugblätter heraus. Zu Beginn musste der Drucker auch für den Absatz seiner Produkte sorgen, was später die Buchführer übernahmen. Schon früh setzte eine Arbeitsteilung zwischen der technischen Abteilung und der Finanzierung ein.
+
+Heute werden Bücher meistens im Offsetdruckverfahren gedruckt, selten im Tiefdruckverfahren. Letzteres wird meistens für Zeitschriften und Versandhauskataloge verwendet. Das neueste Verfahren (Stand 2007) ist der Digitaldruck. Während beim Offsetdruck noch Druckplatten (Druckvorlagen) produziert werden, verzichtet man bei Digitaldruckverfahren völlig auf die Herstellung von Druckvorlagen. Diese Techniken schaffen die Voraussetzungen für das „Book on Demand“.
+
+Renaissance des Buchdrucks im 21. Jahrhundert[Bearbeiten]
+Seit Beginn des 21. Jahrhunderts erlebt der Buchdruck als künstlerische Ausdrucksform und gestalterisches Mittel für Privat- und Geschäftsdrucksachen eine Renaissance. Vornehmlich in Kleinbetrieben, deren Aufstellung eher einem Atelier als einem Handwerksbetrieb gleicht, greifen vor allem Gestalter und damit Fachfremde technische Mittel des Buchdrucks auf. Grundsätzlich sind hier zwei Richtungen erkennbar: Im einen Fall liegt der Schwerpunkt auf der Typographie unter Verwendung klassischen Bleisatzes. Im zweiten Fall wird lediglich auf die technischen Einrichtungen des Buchdrucks zurückgegriffen. Hier erfolgt die Erstellung der Druckform digital auf Photopolymerplatten. Analog dem amerikanischen Trend wird für diese neue Form auch hierzulande der Begriff Letterpress (engl. für Buchdruck) verwendet.
+
+Technik der klassischen Buchdruckerkunst[Bearbeiten]
+
+Relief Buchdrucker am Gutenberg-Denkmal, Mainz
+Die zum Betrieb der Buchdruckerkunst erforderlichen Typen oder Lettern werden in verschiedene Gruppen Fraktur-, Antiqua- und Kursivschrift neben den dazugehörigen Interpunktions- und sonstigen Zeichen (Sternchen, Paragraphen etc.) eingeteilt. Die Verschiedenartigkeit und Reichhaltigkeit der Typen ist außerordentlich. Man unterscheidet sie nach ihrer Gattung in Brot- und Zierschriften sowie nach ihrer Zeichnung in gotische, Fraktur, Grotesk- etc. Schriften. Ferner werden sie nach ihrer Kegelgröße unterschieden, etwa 8 Punkt oder 24 Punkt. Zu den Schriften gehört auch der Ausschluss, das sind Metallstückchen ohne Schriftbild. Diese sind etwa ein Fünftel niedriger als die eigentlichen Typen (Spatien, Viertel-, Drittel-, Halbgevierte, Gevierte, Quadrate). Sie dienen zur Trennung der Wörter, zum Ausfüllen leerer Zeilen etc. Ähnlichen Zwecken dient der Durchschuss, Metallplättchen von ein bis zehn typographischen Punkt Stärke und in genormten Längen bei 54 Punkt Höhe, oft aber auch von der ganzen Breite der Zeilen (Regletten). Man durchschießt damit den Zeilensatz, das heißt man legt die Regletten zwischen die Zeilen, welche dann auseinander gerückt werden. Der physische Ablauf des Druckens mit einzelnen Lettern kann als typographischer Kreislauf bezeichnet werden.
+
+Form und Ablage von Typen[Bearbeiten]
+Jede Type trägt an der Vorderseite, in Finnland und Frankreich an der Rückseite, ihres Körpers eine Einkerbung, die Signatur, zum sofortigen richtigen Erfassen der Type. Da diese Einkerbungen verschieden sind für die unterschiedlichen, oft aber doch sehr ähnlichen Typengattungen, so erleichtern sie auch deren Unterscheidung. Ein Durcheinander von Typen verschiedener Schriftgattungen oder auch verschiedener Typen ein und derselben Gattung wird als „Zwiebelfische“ bezeichnet.
+
+Die für Werk- und Zeitungssatz bestimmten Typen liegen in hölzernen Setzkästen mit etwa 116 Fächern für Fraktur (Deutsch) und 125 für Antiquaschriften, etwa für Lateinisch, Englisch, Französisch und andere. Die größere Fächerzahl wird bedingt durch Accentbuchstaben. Die orientalischen Sprachen und der Satz von Musiknoten, mathematischen und chemischen Formeln erfordern Kästen mit noch mehr Fächern. Die Größe der Fächer ist dem mehr oder minder häufigen Vorkommen der Buchstaben angepasst, und auch deren Lage im Kasten richtet sich danach. Der Setzkasten ruht etwa in Brusthöhe auf einem pultartigen Gestell, dem Setzregal, das mit Fächern zum Einschieben der Kästen versehen ist.
+
+Verwendung der Typen[Bearbeiten]
+Vor dem Regal steht der Schriftsetzer. Er hält in der linken Hand den Winkelhaken aus Metall. Dieser war früher oft aus Holz und mit Metall ausgelegt, der eine Art nach zwei Seiten offenes, flaches Kästchen mit verstellbarer linker Seitenwand bildet, in welches der Setzer mit der rechten Hand die Typen aus den Fächern führt und zu Zeilen zusammenstellt. Das Manuskript wird von dem Manuskripthalter gehalten, bestehend aus einem Holz- oder Metallstab (Tenakel) mit einer Art Gabel (Divisorium). Der Halter mit dem Text ist dabei für den Setzer bequem sichtbar auf den Setzkasten aufgesteckt. Ist eine Zeile gefüllt, so muss sie ausgeschlossen werden, das heißt, sie muss die genau dem jeweiligen Format entsprechende Breite erhalten und mäßig fest im Winkelhaken sitzen, was entweder durch Verringerung der Wortzwischenräume erreicht wird, um überschießende Wortteile noch in den Raum der Zeile zu bringen, oder die Zwischenräume werden durch Hinzufügen von Ausschließungen verbreitert. Von der Regelmäßigkeit und Sorgfalt, mit der diese Arbeit ausgeführt wird, hängen das gute Aussehen und die Lesbarkeit des Satzes nach dem Druck wesentlich ab.
+
+Ist die Zeile vollendet, wird die dünne Platte aus glattem Metall, die Setzlinie, welche ihr bisher als Unterlage diente, darunter hervorgezogen und darübergelegt und mit dem Setzen so lange fortgefahren, bis der Winkelhaken mit Zeilen gefüllt ist. Diese werden dann sämtlich auf einmal auf ein Schiff gehoben, das heißt, auf ein auf zwei oder drei Seiten mit einem erhabenen Rand versehenes winkelrechtes Brettchen oder eine Zinkplatte, bis die zur Bildung einer Spalte oder Seite (Kolumne) oder auch eines Pakets nötige Zeilenzahl erreicht ist. Setzt der Setzer in Seiten, so hat er diese auch mit einem Kolumnentitel zu versehen, der ein Toter genannt wird, wenn er nur aus der Seitenzahl besteht, oder ein Lebender, sobald er ein Stichwort oder eine kurze Angabe des Seiteninhalts enthält. Auf ihren Fuß legt er zur Erzielung sichereren Halts einen Unterschlag, bestehend aus Quadraten oder seitenbreiten Metallklötzchen, und umwindet das Ganze dann mit einem festen Bindfaden, der Kolumnenschnur.
+
+Ist der Satz gut ausgeführt, so muss sich jetzt die Seite hantieren lassen, als ob sie nur aus einem Stück bestände. Die vollendeten Seiten werden entweder bis zur Fertigstellung der für einen Druckbogen erforderlichen Anzahl auf Papierlagen (Porte-pages) aufbewahrt, oder gleich auf Bretter (Setzbretter) oder Schließplatten und Schließsteine in einer bestimmten, der Aufeinanderfolge der Seiten entsprechenden Reihenfolge ausgeschossen, wo dann Holz- oder Metallstege von der Breite die auf dem Papier unbedruckt bleiben, für das Einbinden nötigen Räume (Bund-, Kreuz- und Mittelsteg) um die Seiten gelegt, die Kolumnenschnüre entfernt (die Seiten „aufgelöst“) und die Formen vermittelst eiserner Rahmen entweder mit Eisenschrauben, Holzkeilen und Schrägstegen oder auch mit eigens konstruierten gezahnten Stegen und Keilen etc. geschlossen, das heißt, so befestigt werden, dass die ganze, aus vielen Tausenden von Lettern bestehende Form emporgehoben und in der Presse niedergelegt werden kann, ohne dass ein Buchstabe aus den Seiten fällt.
+
+Das Umbrechen und Schließen und die damit zusammenhängende Unterleitung der Herstellung eines Werkes besorgen indes meistens (bei Zeitungen ist es ausnahmslos der Fall) damit speziell betraute geschickte Setzer, die „Metteurs en pages“. Diese Arbeitsweise, bei welcher der Setzer nur Stücke, die Pakete genannt werden und von denen der Name Paketsetzer stammt, des glatten Satzes unter Weglassung aller Überschriften aus anderer als für den Textsatz verwandter Schrift zu liefern hat, wird „Mise en pages“ genannt. Die leichtere Bestimmung der Reihenfolge der fertigen Bogen erreicht man durch Beifügung einer Ziffer rechts am Fuß der ersten und Wiederholung der gleichen Ziffer nebst Sternchen am Fuß der dritten Seite, der Signatur. Die erste erhält häufig zusätzlich an der linken Seite in kleiner Schrift eine Norm, die in wenigen Worten Titel und Bandzahl eines Werkes anzugeben hat. Die Signaturangabe mit Buchstaben ist in Deutschland außer Brauch, ebenso ist der Kustos, das heißt, das früher an den Schluss einer jeden Seite gestellte erste Wort der nächstfolgenden, weggefallen. Die Formate werden nach der Zahl der Blätter, welche ein Bogen nach dem Zusammenfalzen enthält, benannt: Folio, Quart, Oktav, Duodez, Sedez, Oktodez etc. Heute werden diese Bezeichnungen, für die verschiedenen Buchformate, nur noch selten benutzt.
+
+Der Druckvorgang[Bearbeiten]
+Der erste Abdruck, welcher von den geschlossenen Formen oder auch von Seiten und Paketen in Schnuren genommen wird, ist der Korrekturabzug. In diesem zeichnet der Korrektor die vom Setzer veranlassten Fehler. Nach deren Berichtigung werden weitere Korrekturabzüge für Verfasser und Verleger hergestellt. Wenn deren Berichtigungen und Änderungen vom Setzer gemacht sind und die Genehmigung zum Druck erteilt ist, wird die richtige Stellung der Seiten überprüft und korrigiert. Nach Erteilung der Imprimatur kann der Druck erfolgen. Diejenige Form, welche die erste und letzte Seite enthält, das heißt die äußere, Prima oder Schöndruckform, wird in der Regel zuerst gedruckt (eingehoben). Die andere wird als innere, Sekunda oder Widerdruckform bezeichnet. Der Druck erfolgt entweder in der Handpresse, kurzweg Presse genannt, in der Accidenzmaschine oder Tretpresse, oder in der Schnellpresse.
+
+Das Papier, mit Ausnahme von Schreibpapier, wird hierfür teils befeuchtet, das heißt in stärkeren oder dünneren Lagen durch Wasser gezogen oder angespritzt, wodurch es geschmeidiger und zur Aufnahme der Druckfarbe geeigneter wird, teils trocken gedruckt und, ist der Druck ein feiner, auch satiniert. Dies gibt ihm die durch das Feuchten verlorene Glätte wieder. In der heutigen Zeit ist das jedoch nicht mehr nötig. Vor dem Druck muss jede Form „zugerichtet“ werden, das heißt, es müssen alle Ungleichheiten im Ausdruck durch Hinzufügung oder Hinwegnahme feiner Papiereinlagen ausgeglichen werden, was meistens sehr zeitraubend ist. Bei feinem Illustrationsdruck sind hohe Anforderungen an die Kunstfertigkeit des Druckers oder Maschinenmeisters bei der Zurichtung gestellt, da selbst der feinste Holzschnitt ohne gute Zurichtung nicht voll zur Geltung kommt. Um einen guten Druck zu erreichen, gehören auch gute Walzen zum Verreiben und Auftragen der Farbe. Sie wurden bis 1940 in den Buchdruckereien selbst entweder aus einer Mischung von Leim und Sirup oder aus Glycerin, Zucker und Gelatine gegossen, jedoch war nach der besseren Verfügbarkeit von Kautschuk kein Bedarf mehr an diesen Verfahren. Generell haben die Walzen bald nach der Erfindung der Schnellpresse, die früher zum Auftragen der Farbe gebräuchlichen Ballen aus Rosshaar mit einem Überzug aus Kalb- oder Hundeleder verdrängt.
+
+Der Druck in der Presse, die in der Regel durch zwei Personen bedient wird, erfolgt durch bogenweises Einlegen des Papiers, Zuklappen und Niederlegen von Rähmchen und Deckel, Einfahren des Karrens vermittelst Drehung einer Kurbel, Herüberziehen des Bengels, Wiederausfahren und Auslegen des gedruckten Bogens. Das alles wird von einem der beiden Drucker ausgeführt, während der andere die Farbe verreibt und die Form in der Zeit des Papier-Ein- und Auslegens einschwärzt („aufwalzt“). Die Schnellpresse besorgt alle diese Operationen, mit Ausnahme des Einlegens, selbsttätig. Das Auslegen geschieht bei den meisten Schnellpressen durch einen mechanischen Auslegeapparat. Der Maschinenmeister hat nach erfolgter Zurichtung nur den Gang der Maschine, die Gleichmäßigkeit der Färbung und die Güte des Druckes zu überwachen.
+
+Meyers	Dieser Artikel basiert auf einem gemeinfreien Text aus Meyers Konversations-Lexikon, 4. Auflage von 1888–1890.
+Bitte entferne diesen Hinweis nur, wenn du den Artikel so weit überarbeitet hast, dass der Text den aktuellen Wissensstand zu diesem Thema widerspiegelt, dies belegt ist und er den heutigen sprachlichen Anforderungen genügt.
+Um danach auf den Meyers-Artikel zu verweisen, kannst du {{Meyers Online|Band|Seite}} benutzen.
+
+Nach dem Druck[Bearbeiten]
+Die gedruckten Bogen werden, wenn es nicht Zeitungen oder andere sofort abzuliefernde Arbeiten sind, zum Trocknen aufgehängt und dann in Glättpressen gebracht, um die beim Druck entstandenen Unebenheiten des Papiers zu beseitigen.
+
+Die Satzformen werden nach dem Druck zur Entfernung der Druckfarbe mit einer in scharfe Lauge getauchten Bürste gewaschen und mit reinem Wasser abgespült. Wenn sie nicht für weitere Drucke aufzubewahren sind, das heißt zum Stehsatz werden, erhält der Setzer sie zurück zum Auseinandernehmen, Ablegen oder Aufräumen. Er verteilt die Lettern wieder in die ihnen entsprechenden Kastenfächer, oder es werden nur Titel, Überschriften, kurze Zeilen etc. abgelegt, der Satz aber „aufgebunden“, das heißt in handlichen Stücken mit Kolumnenschnüren umwunden und, wenn sie gut abgetrocknet sind, in Papier geschlagen, etikettiert und für späteren Bedarf im Magazin aufbewahrt. Abgenutzte Typen werden als „Zeug“ wieder an die Schriftgießereien zum Umguss verkauft.
+
+Rolle Gutenbergs[Bearbeiten]
+Gutenbergs technische Leistung bestand darin, eine Reihe von Verfahren zu entwickeln, die den Buchdruck erst ermöglichten:
+
+die Signatur am Kegel der Typen
+das Formenwechseln beim Gießen der Typen (siehe Handgießinstrument)
+den Aufbau der Druckerpresse
+die austauschbaren Metalllettern
+den Setzkasten
+Gutenbergs Leistung liegt auch in der wirtschaftlichen und gesellschaftlichen Etablierung des Buchdruckes durch die erste Massenvervielfältigung der Bibel.
+
+Bedeutung des Buchdruckes[Bearbeiten]
+
+Buchdruck im 15. Jahrhundert
+Die Erfindung und Etablierung des Letterndruckes bildet einen bedeutenden kulturhistorischen Einschnitt, der tiefgreifende Veränderungen in der Informationsverarbeitung einleitete. Für Elizabeth L. Eisenstein war der Buchdruck eine "Revolution"[4]. Es habe nur wenige als vergleichbar grundlegend angesehene Meilensteine gegeben, so die Erfindung der Sprache und die Oralität, die Erfindung der alphabetischen Schrift und die Schriftkultur sowie die Erfindung des Computers sowie die Digitalisierung. Die Medientheorie leitet aus Gutenbergs Leistung grundlegende Konsequenzen ab. Eisenstein folgt mit ihrer Einschätzung sehr frühen Bewertungen – so schrieb etwa Francis Bacon in seinem Novum Organum 1620: "Kein Reich, keine Religion, kein Stern hatte größeren Einfluss auf die menschlichen Angelegenheiten als Buchdruck, Schießpulver und Kompass."
+
+Jüngere historische Arbeiten widersprechen dieser Einschätzung freilich. Martyn Lyons spricht vom „Mythos Gutenberg“ und bestreitet ausdrücklich, dass Gutenbergs Erfindung revolutionär gewesen sei[5]. Laut dem Mediävisten Hagen Keller kann man "trotz der Veränderungen, die der Buchdruck gebracht hat, die Zeit vom 14. Jahrhundert bis zur Mitte des 17. unter vielen Aspekten als relativ einheitliche Phase betrachten"[6], und der Mediävist Michael Clanchy hält das Siegel für einen "ebenso wichtigen Schritt in der Geschichte der Schriftlichkeit wie Gutenbergs Buchdruck"[7], weil das Siegel erstmals eine Möglichkeit darstellte, Schriftstücke zu authentifizieren.
+
+Der Buchdruck ermöglichte die exakte Reproduktion von Wissen in einem zuvor nie gekannten Ausmaß. Während Bücher zuvor manuell in Skriptorien kopiert wurden, wurde der menschliche Faktor ersetzbar. Auch Abschreibfehler wurden vermeidbar.
+
+Die Autorschaft bekam Bedeutung. Es wurde wichtig, wer etwas gesagt bzw. geschrieben hatte, was und wie jemand präzise formuliert hatte und wann dieses zu datieren war. Bücher wurden attraktiver und strukturierter, indem sich die Kennzeichnung durch Seitenzahlen (Paginierung), Inhaltsverzeichnisse, Register sowie Titelblätter durchsetzte.
+
+Das Lesen veränderte sich: Während Bücher zuvor laut (vor-) gelesen wurden, entwickelte es sich zum heutigen Stilllesen. Eine allgemeine Alphabetisierung begann und leitete eine Bildungsrevolution ein. Das Denken veränderte sich in Anpassung an die Schriftform (lineares und kausales Denken). Die Methodik und die Wissenschaft neuer Bücher überbot bisweilen sogar die als verständliche Form von Begriffen, in bildlicher Form, die Metaphern. Man konnte Bücher auch ohne eine gedankliche Bildform verstehen.
+
+Wissen wurde allgemein zugänglicher, da gedruckte Bücher preiswerter als die handschriftlich kopierten waren, da es mehr Exemplare eines Buches gab. So wurden Schriften in den Umlauf gebracht. Nach Neil Postmans Buch Das Verschwinden der Kindheit führt die Alphabetisierung (dort soziale Literalität genannt) zu einem Lebensabschnitt Kindheit, in welchem die Menschen sich durch das (Lesen-) Lernen vom „nicht mehr Säugling“ zum Erwachsenen entwickeln.
+
+„Mehr als das Gold hat das Blei die Welt verändert und mehr als das Blei in der Flinte das Blei im Setzkasten“
+
+– Georg Christoph Lichtenberg[8]
+Schwarze Kunst und Schriftsatz[Bearbeiten]
+
+Zunftwappen der Buchdrucker
+Die Zeit von Gutenberg bis zur Umstellung auf den Computersatz um 1985 wird auch als „Bleizeit“ bezeichnet. Das weltweit erste, vollständig in Gold gedruckte Buch sind Die vier Bücher von der Nachfolge Christi des Thomas von Kempen, das in einer Prachtausgabe von nur 15 Exemplaren bei Gottlieb Haase Söhne in Prag im Jahre 1843 entstand. Das erste Exemplar wurde seiner Majestät Ernst August König von Hannover gewidmet, in dessen königlicher Bibliothek sich das mit Silbereinband und Königswappen versehene Exemplar befand.
+
+Jahrhunderte befolgten die „Ritter der schwarzen Zunft“ ein hochdifferenziertes Regelwerk. Zwar gibt es in heutiger Zeit auch Textverarbeitungsprogramme, mit denen die Abstände der Buchstaben nach festen Regeln gesteuert werden und somit z. B. Ligaturen gesetzt werden können, jedoch geht das Wissen um die Schwarze Kunst mehr und mehr verloren. Weiterhin wird von einigen Künstlern der Buchdruck wie zu Gutenbergs Zeiten durchgeführt, und bei Treffen, beispielsweise in Mainz bei der Minipressen-Messe, wird noch die „Sprache der Schwarzen Kunst“ (Druckersprache) gepflegt. Dort geben Fachbegriffe den Ton an wie zum Beispiel:
+
+Alphabet: eine Folge von 23 Druckbogen
+Fliegenkopf: eine kopfüber gesetzte Letter, die ein schwarzes Kästchen erzeugt
+Hochzeit: ein doppelt gesetztes Wort oder eine doppelt gesetzte Zeile
+Hurenkind: die letzte Zeile eines Absatzes, wenn sie zugleich die erste einer neuen Spalte oder Seite ist
+Leiche: ein fehlender Buchstabe oder ein fehlendes Wort
+Schusterjunge: ein Seiten- oder Spaltenumbruch unmittelbar nach der ersten Zeile eines neuen Absatzes
+Zwiebelfisch: ein im Text erscheinender Buchstabe einer falschen Schriftart
+Siehe auch[Bearbeiten]
+Aushängebogen
+Buchdruck in Venedig
+Buchdruckerwappen
+Buchformat
+Buchbinden
+Buchdruckmaschine
+Buchgeschichte
+Druckerei
+Druckerzeugnis
+Medientheorie
+Quadräteln
+Satztechnik
+Setzmaschine
+Verlagsherstellung (Buchherstellung)
