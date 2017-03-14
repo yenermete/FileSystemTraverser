@@ -107,8 +107,9 @@ public class FileInfo {
 		return longFile;
 	}
 
-	public void setBigFile(boolean longFile) {
+	public FileInfo setBigFile(boolean longFile) {
 		this.longFile = longFile;
+		return this;
 	}
 
 	public int getIndex() {

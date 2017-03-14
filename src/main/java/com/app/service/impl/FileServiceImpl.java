@@ -17,6 +17,7 @@ import javax.inject.Named;
 
 import org.apache.commons.lang3.StringUtils;
 
+import com.app.constants.FileConstants;
 import com.app.model.FileInfo;
 import com.app.service.FileService;
 
@@ -29,6 +30,7 @@ public class FileServiceImpl implements FileService {
 	private String encoding;
 	private boolean ignoreCase;
 	private BreakIterator wordIterator;
+	private Locale locale;
 
 	@Inject
 	public FileServiceImpl(@Named("encoding") String encoding, @Named("longFileLowerLimit") int longFileLowerLimit,
@@ -40,11 +42,12 @@ public class FileServiceImpl implements FileService {
 		this.wordThreshold = wordThreshold;
 		this.fileWordThreshold = fileWordThreshold;
 		this.ignoreCase = ignoreCase;
-		this.wordIterator = BreakIterator.getWordInstance(new Locale(language));
+		this.locale = new Locale(language);
+		this.wordIterator = BreakIterator.getWordInstance(locale);
 	}
 
 	public Map<String, Integer> getWordCountMap(Path path, FileInfo fileInfo) throws IOException {
-		if (Files.size(path) > longFileLowerLimit) {
+		if (fileInfo.getFileSize() > longFileLowerLimit) {
 			return getMapFromLargeFile(path, fileInfo);
 		}
 		return getMapFromSmallFile(path, fileInfo);
@@ -88,16 +91,25 @@ public class FileServiceImpl implements FileService {
 		wordIterator.setText(fileContent);
 		int start = wordIterator.first();
 		int end = wordIterator.next();
-
+		String[] extraSeparatedWords;
 		while (end != BreakIterator.DONE) {
 			String word = fileContent.substring(start, end);
+			if (ignoreCase) {
+				word = word.toLowerCase(locale);
+			}
 			if (StringUtils.isNotBlank(word) && Character.isLetterOrDigit(word.charAt(0))) {
-				if (map.get(word) == null) {
-					map.put(word, 1);
-				} else {
-					map.put(word, map.get(word) + 1);
+				for (String separator : FileConstants.EXTRA_WORD_SEPARATORS) {
+					word = word.replaceAll(separator, " ");
 				}
-				wordCount++;
+				extraSeparatedWords = word.split(" ");
+				for (String currentWord : extraSeparatedWords) {
+					if (map.get(currentWord) == null) {
+						map.put(currentWord, 1);
+					} else {
+						map.put(currentWord, map.get(currentWord) + 1);
+					}
+					wordCount++;
+				}
 			}
 			start = end;
 			end = wordIterator.next();
@@ -106,6 +118,7 @@ public class FileServiceImpl implements FileService {
 			fileInfo.setBigFile(true);
 		} else {
 			fileInfo.setBigFile(false);
+			map.clear();
 		}
 	}
 
