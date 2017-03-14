@@ -6,6 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.junit.Before;
+import org.junit.Test;
 
 import com.app.model.FileInfo;
 import com.app.service.FileService;
@@ -27,6 +28,7 @@ public class TestFileService extends TestCase {
 		engLishCaseSensitiveService = new FileServiceImpl("UTF-8", 8096, 3, 20, false, "en");
 	}
 
+	@Test
 	public void testSmallFileGermanRead() throws IOException {
 		Map<String, Integer> map = germanService.getWordCountMap(Paths.get(testFilesFolder + "smallGermanFile.txt"),
 				new FileInfo());
@@ -34,6 +36,7 @@ public class TestFileService extends TestCase {
 		assertEquals(0, map.size());
 	}
 
+	@Test
 	public void testSmallFileGermanReadWithRepetitions() throws IOException {
 		Map<String, Integer> map = germanService
 				.getWordCountMap(Paths.get(testFilesFolder + "smallGermanFileWithRepetitions.txt"), new FileInfo());
@@ -41,6 +44,7 @@ public class TestFileService extends TestCase {
 		assertEquals(0, map.size());
 	}
 
+	@Test
 	public void testSmallFileEnglishRead() throws IOException {
 		Map<String, Integer> map = englishService.getWordCountMap(Paths.get(testFilesFolder + "smallEnglishFile.txt"),
 				new FileInfo());
@@ -48,6 +52,7 @@ public class TestFileService extends TestCase {
 		assertEquals(0, map.size());
 	}
 
+	@Test
 	public void testSmallFileEnglishReadWithEnoughRepetitions() throws IOException {
 		Map<String, Integer> map = englishService
 				.getWordCountMap(Paths.get(testFilesFolder + "smallEnglishFileWithRepetitions.txt"), new FileInfo());
@@ -55,6 +60,7 @@ public class TestFileService extends TestCase {
 		assertEquals(0, map.size());
 	}
 
+	@Test
 	public void testBigFileEnglishDontIgnoreCase() throws IOException {
 		Map<String, Integer> map = engLishCaseSensitiveService
 				.getWordCountMap(Paths.get(testFilesFolder + "bigEnglishFile.txt"), new FileInfo());
@@ -62,6 +68,7 @@ public class TestFileService extends TestCase {
 		assertEquals(0, map.size());
 	}
 
+	@Test
 	public void testBigFileEnglishDontIgnoreCaseWithRepetitions() throws IOException {
 		Map<String, Integer> map = engLishCaseSensitiveService
 				.getWordCountMap(Paths.get(testFilesFolder + "bigEnglishFileWithRepetitions.txt"), new FileInfo());
@@ -74,6 +81,7 @@ public class TestFileService extends TestCase {
 		assertEquals(expected, map);
 	}
 
+	@Test
 	public void testBigFileGermanRead() throws IOException {
 		Map<String, Integer> map = germanService.getWordCountMap(Paths.get(testFilesFolder + "bigGermanFile.txt"),
 				new FileInfo());
@@ -81,6 +89,7 @@ public class TestFileService extends TestCase {
 		assertEquals(0, map.size());
 	}
 
+	@Test
 	public void testBigFileEnglishRead() throws IOException {
 		Map<String, Integer> map = englishService.getWordCountMap(Paths.get(testFilesFolder + "bigEnglishFile.txt"),
 				new FileInfo());
@@ -88,9 +97,10 @@ public class TestFileService extends TestCase {
 		assertEquals(0, map.size());
 	}
 
+	@Test
 	public void testBigFileGermanReadWithRepetitions() throws IOException {
-		Map<String, Integer> map = germanService.getWordCountMap(Paths.get(testFilesFolder + "bigGermanFileWithRepetitions.txt"),
-				new FileInfo());
+		Map<String, Integer> map = germanService
+				.getWordCountMap(Paths.get(testFilesFolder + "bigGermanFileWithRepetitions.txt"), new FileInfo());
 		assertNotNull(map);
 		assertEquals(7, map.size());
 		Map<String, Integer> expected = new HashMap<>();
@@ -104,9 +114,10 @@ public class TestFileService extends TestCase {
 		assertEquals(expected, map);
 	}
 
+	@Test
 	public void testBigFileEnglishReadWithRepetitions() throws IOException {
-		Map<String, Integer> map = englishService.getWordCountMap(Paths.get(testFilesFolder + "bigEnglishFileWithRepetitions.txt"),
-				new FileInfo());
+		Map<String, Integer> map = englishService
+				.getWordCountMap(Paths.get(testFilesFolder + "bigEnglishFileWithRepetitions.txt"), new FileInfo());
 		assertNotNull(map);
 		assertEquals(4, map.size());
 		Map<String, Integer> expected = new HashMap<>();
