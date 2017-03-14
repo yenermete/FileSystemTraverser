@@ -2,6 +2,7 @@ package com.app;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.InputStreamReader;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
@@ -36,7 +37,7 @@ public class Application {
 
 	private static void initConfig(String[] arguments) {
 		String configLocation = null;
-		if (arguments != null) {
+		if (arguments != null && arguments.length > 0) {
 			if (arguments.length == 1) {
 				configLocation = arguments[0];
 			} else {
@@ -46,8 +47,13 @@ public class Application {
 		}
 		YamlReader reader = null;
 		try {
-			reader = new YamlReader(new FileReader(
-					StringUtils.isBlank(configLocation) ? FileConstants.DEFAULT_CONFIG_FILE_LOCATION : configLocation));
+			if (StringUtils.isBlank(configLocation)) {
+				reader = new YamlReader(new InputStreamReader(Thread.currentThread().getContextClassLoader()
+						.getResourceAsStream(FileConstants.DEFAULT_CONFIG_FILE_LOCATION)));
+			} else {
+				reader = new YamlReader(new FileReader(configLocation));
+			}
+
 		} catch (FileNotFoundException e) {
 			logger.error("File not found!", e);
 			throw new RuntimeException("FileNotFound at config initialization!", e);

@@ -7,9 +7,7 @@ import java.nio.channels.FileChannel;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.text.BreakIterator;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -17,7 +15,6 @@ import java.util.stream.Collectors;
 import javax.inject.Inject;
 import javax.inject.Named;
 
-import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.StringUtils;
 
 import com.app.model.FileInfo;
@@ -87,7 +84,7 @@ public class FileServiceImpl implements FileService {
 
 	private void updateMapWithContent(Map<String, Integer> map, FileInfo fileInfo, String fileContent,
 			boolean ignoreCase) {
-		List<String> words = new ArrayList<>();
+		int wordCount = 0;
 		wordIterator.setText(fileContent);
 		int start = wordIterator.first();
 		int end = wordIterator.next();
@@ -95,22 +92,20 @@ public class FileServiceImpl implements FileService {
 		while (end != BreakIterator.DONE) {
 			String word = fileContent.substring(start, end);
 			if (StringUtils.isNotBlank(word) && Character.isLetterOrDigit(word.charAt(0))) {
-				words.add(ignoreCase ? word.toLowerCase() : word);
+				if (map.get(word) == null) {
+					map.put(word, 1);
+				} else {
+					map.put(word, map.get(word) + 1);
+				}
+				wordCount++;
 			}
 			start = end;
 			end = wordIterator.next();
 		}
-		if (CollectionUtils.isNotEmpty(words) && words.size() >= fileWordThreshold) {
+		if (wordCount >= fileWordThreshold) {
 			fileInfo.setBigFile(true);
 		} else {
 			fileInfo.setBigFile(false);
-		}
-		for (String word : words) {
-			if (map.get(word) == null) {
-				map.put(word, 1);
-			} else {
-				map.put(word, map.get(word) + 1);
-			}
 		}
 	}
 

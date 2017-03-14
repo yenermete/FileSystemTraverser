@@ -115,7 +115,7 @@ public class FileApplication {
 			logger.warn("{} is not a folder", path);
 			throw new RuntimeException(String.format("%s is not a folder", path));
 		}
-		logger.warn("Can't access %s", path);
+		logger.warn("Can't access {}", path);
 		throw new RuntimeException(String.format("Can't access file %s", path));
 	}
 }
