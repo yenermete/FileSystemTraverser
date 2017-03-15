@@ -64,5 +64,6 @@ public class Application {
 			logger.error("Error reading file!", e);
 			throw new RuntimeException("Error reading file at config initialization!", e);
 		}
+		config.validate();
 	}
 }

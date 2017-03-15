@@ -1,5 +1,11 @@
 package com.app.config;
 
+import java.nio.charset.Charset;
+import java.nio.charset.UnsupportedCharsetException;
+import java.util.Locale;
+
+import org.apache.commons.lang3.LocaleUtils;
+
 public class FileAppConfig {
 
 	private boolean ignoreCase;
@@ -9,6 +15,21 @@ public class FileAppConfig {
 	private int longFileLowerLimit;
 	private String searchedExtension;
 	private String language;
+
+	public void validate() {
+		Locale locale = new Locale.Builder().setLanguageTag(language).build();
+		if (!LocaleUtils.isAvailableLocale(locale)) {
+			throw new RuntimeException("Please enter a valid language value at config file.");
+		}
+		try {
+			Charset.forName(encoding);
+		} catch (UnsupportedCharsetException e) {
+			throw new RuntimeException("Please enter a valid encoding value at config file.", e);
+		}
+		if (wordThreshold <= 0 || fileWordThreshold <= 0 || longFileLowerLimit <= 0) {
+			throw new RuntimeException("All threshold and limit values at config file should be greater than zero.");
+		}
+	}
 
 	public boolean isIgnoreCase() {
 		return ignoreCase;
