@@ -8,7 +8,7 @@ What it does is write all text file names, if text file contains more than thres
 This console application can be built with the below command.
 * mvn clean assembly:assembly.
 
-The create jar file with dependencies can be run with the below commands.
+The application can be run with the commands below.
 * java -jar target/app-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 * java -jar target/app-0.0.1-SNAPSHOT-jar-with-dependencies.jar -config_file_location_with_dashes-
 
